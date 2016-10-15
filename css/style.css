@@ -1,0 +1,21 @@
+.container{
+	margin-top:5% !important;
+	
+}
+button {
+	font-family: Verdana,sans-serif;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px !important;
+    float: right;
+}
+button:hover {
+	    box-shadow: -2px 8px 8px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+	    transition-duration: 0.4s;
+}
